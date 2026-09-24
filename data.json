@@ -1,0 +1,174 @@
+{
+  "title": "Bar shifts",
+  "subtitle": "Swing Buzz festival bar, 25–27 September 2026",
+  "days": [
+    {
+      "id": "fri",
+      "label": "Friday",
+      "date": "2026-09-25",
+      "slots": [
+        {
+          "time": "20:30 - 22:00",
+          "note": "Training / Prep: Filip, Eli, Asen, Ivan, Stilyan, Dimitar, Alina"
+        },
+        {
+          "time": "22:00 - 23:30",
+          "main": "Filip",
+          "rotating": "Asen",
+          "floater": "Dimitar"
+        },
+        {
+          "time": "23:30 - 01:00",
+          "main": "Filip",
+          "rotating": "Ivan",
+          "floater": "Dimitar"
+        },
+        {
+          "time": "01:00 - 02:30",
+          "main": "Eli",
+          "rotating": "Stilyan",
+          "floater": "Alina"
+        },
+        {
+          "time": "02:30 - 03:00",
+          "main": "Eli",
+          "rotating": "Alina",
+          "floater": ""
+        }
+      ]
+    },
+    {
+      "id": "sat",
+      "label": "Saturday",
+      "date": "2026-09-26",
+      "slots": [
+        {
+          "time": "20:30 - 22:00",
+          "main": "Filip",
+          "rotating": "Beti",
+          "floater": ""
+        },
+        {
+          "time": "22:00 - 23:30",
+          "main": "Filip",
+          "rotating": "Asen",
+          "floater": "Alina"
+        },
+        {
+          "time": "23:30 - 01:00",
+          "main": "Filip",
+          "rotating": "Stilyan",
+          "floater": "Alina"
+        },
+        {
+          "time": "01:00 - 02:30",
+          "main": "Eli",
+          "rotating": "Ivan",
+          "floater": "Dimitar"
+        },
+        {
+          "time": "02:30 - 04:00",
+          "main": "Eli",
+          "rotating": "Beti",
+          "floater": ""
+        }
+      ]
+    },
+    {
+      "id": "sun",
+      "label": "Sunday",
+      "date": "2026-09-27",
+      "slots": [
+        {
+          "time": "20:30 - 22:20",
+          "main": "Eli",
+          "rotating": "Ivan",
+          "floater": ""
+        },
+        {
+          "time": "22:00 - 00:10",
+          "main": "Eli",
+          "rotating": "Asen",
+          "floater": "Dimitar"
+        },
+        {
+          "time": "00:10 - 02:00",
+          "main": "Eli",
+          "rotating": "Stilyan",
+          "floater": "Alina"
+        },
+        {
+          "time": "02:00 - 04:00",
+          "main": "Eli",
+          "rotating": "Alina / Viki",
+          "floater": ""
+        }
+      ]
+    }
+  ],
+  "sops": [
+    {
+      "title": "Gin Tonic",
+      "steps": [
+        "Fill cup with ice till half",
+        "Pour **50ml gin** into cup",
+        "Add **squeeze of lemon concentrate** (about 10-15ml)",
+        "Pour tonic till almost full",
+        "Drop in **lemon wedge**",
+        "Place **fresh basil sprig** standing upright in cup"
+      ]
+    },
+    {
+      "title": "Cuba Libre",
+      "steps": [
+        "Fill cup with ice till half",
+        "Drop in **lime wedge** press with tool",
+        "Pour **50ml rum** into ice-filled 400ml cup",
+        "Pour Coke till almost full"
+      ]
+    },
+    {
+      "title": "Whiskey Coke",
+      "steps": [
+        "Pour **50ml whiskey** into 400ml cup with **large ice cube(s)**",
+        "Pour entire **200ml Coke can** into cup",
+        "Stir gently",
+        "Add **2–3 dashes of bitters** on top",
+        "Place **dehydrated orange wheel** on top"
+      ]
+    }
+  ],
+  "checklists": [
+    {
+      "title": "Pre-service",
+      "items": [
+        "Lemon wedges cut and chilled",
+        "Lime wedges cut and chilled",
+        "Dehydrated orange wheels in accessible container",
+        "Fresh mint sprigs prepped and stored",
+        "Bitters bottle within reach",
+        "Large ice cubes ready",
+        "All spirits within reach",
+        "Cans stocked and chilled: Coke, Tonic, Bitter Lemon",
+        "Bottle stock and chilled: water, sparkling water",
+        "Plastic cups stocked: 400ml & 200ml",
+        "Empty bucket",
+        "Cutting board clean",
+        "Paper towels stocked",
+        "Gloves stocked",
+        "Pour half cup of beer on shift start",
+        "Ice stocked in containers"
+      ]
+    },
+    {
+      "title": "Post-shift",
+      "items": [
+        "Ice bag available in freezer",
+        "Alcohol & Beverage check available quantities",
+        "Throw away trash",
+        "Throw away buckets",
+        "Available cups"
+      ]
+    }
+  ]
+}
