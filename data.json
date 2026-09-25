@@ -45,7 +45,7 @@
         {
           "time": "20:30 - 22:00",
           "main": "Filip",
-          "rotating": "",
+          "rotating": "Daniel",
           "floater": ""
         },
         {
@@ -69,7 +69,7 @@
         {
           "time": "02:30 - 04:00",
           "main": "Eli",
-          "rotating": "",
+          "rotating": "Ivan",
           "floater": ""
         }
       ]
@@ -94,7 +94,7 @@
         {
           "time": "00:10 - 02:00",
           "main": "Eli",
-          "rotating": "",
+          "rotating": "Daniel",
           "floater": "Alina"
         },
         {
